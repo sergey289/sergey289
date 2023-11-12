@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/sergey289/sergey289/assets/63552702/fb515e5c-5868-407f-8d7f-981afce3f984" alt="t1"/>
+  <img src="https://github.com/sergey289/sergey289/assets/63552702/b458f553-27ce-4b3d-b7f2-f163e0af9332" width="800px"   alt="t1"/>
 </p>
 <h1 align="center">Hi 👋, I'm Sergey Butermaiev</h1>
 <h3 align="center">Full Stack Developer | Software Developer</h3>
